@@ -1,7 +1,7 @@
 ---
 title: "My Awesome Page"
 date: 2021-07-07T10:53:54+01:00
-draft: true
+draft: false
 ---
 
 # This is a title
